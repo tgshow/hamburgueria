@@ -60,7 +60,9 @@ function updateCartModal() {
           <p class="font-medium mt-2">Price:R$ ${item.price}</p>
         </div>
         <buttom class="remove-from-cart-btn" data-name="${item.name}">
-          Remover
+          
+        
+        Remover
         </buttom>
       </div>
     `
